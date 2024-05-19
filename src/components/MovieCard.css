@@ -1,0 +1,28 @@
+/* .movie {
+    width: 250px;
+    padding: 20px;
+    margin: 10px;
+    transition: transform 0.2s;
+    z-index: 1;
+    position: relative;
+  }
+  
+  .movie:hover {
+    transform: scale(1.05);
+  }
+  
+  .movie img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  
+  .movie .title {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: center;
+    color :black
+  } */
+  
